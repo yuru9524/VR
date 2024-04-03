@@ -24,15 +24,15 @@ var APP_DATA = {
       ],
       "faceSize": 1664,
       "initialViewParameters": {
-        "yaw": -2.8999062059660297,
-        "pitch": -0.2499307211775168,
-        "fov": 1.1307544022479257
+        "yaw": -2.86690291561988,
+        "pitch": -0.3147822814418113,
+        "fov": 1.2599180821480807
       },
       "linkHotspots": [],
       "infoHotspots": []
     }
   ],
-  "name": "清水寺正門",
+  "name": "home",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
