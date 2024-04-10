@@ -42,7 +42,14 @@ var APP_DATA = {
           "target": "4-"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+	  {
+          "yaw": 0.8668235408202261,
+          "pitch": 0.1648745747109217,
+          "title": "入口處",
+          "text": "Text"
+        }
+	  ]
     },
     {
       "id": "1-",
@@ -133,7 +140,14 @@ var APP_DATA = {
           "target": "3-"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+	  {
+          "yaw": -3.024525757633441,
+          "pitch": -0.04146172088228184,
+          "title": "AED",
+          "text": "Text"
+        }
+	  ]
     },
     {
       "id": "3-",
@@ -177,7 +191,14 @@ var APP_DATA = {
           "target": "4-"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+	  {
+          "yaw": -1.060246258398804,
+          "pitch": 0.5579794752980831,
+          "title": "音羽之瀧",
+          "text": "Text"
+        }
+		]
     },
     {
       "id": "4-",
@@ -221,7 +242,14 @@ var APP_DATA = {
           "target": "0-"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+	  {
+          "yaw": -1.2791051629424857,
+          "pitch": 0.12025548372820438,
+          "title": "鼓",
+          "text": "Text"
+        }
+	  ]
     }
   ],
   "name": "本堂",
